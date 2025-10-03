@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django and Next js<br>👯 I’m looking to collaborate on Complex Backends<br>🌱 I’m currently learning Next js
+🔭 I’m currently working on Node js, Django and Next js<br>👯 I’m looking to collaborate on Complex Backends<br>
 
 
 ## 🌐 Socials:
